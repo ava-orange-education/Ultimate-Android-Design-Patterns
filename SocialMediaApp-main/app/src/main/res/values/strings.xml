@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SocialMediaApp</string>
+    <string name="profile">Profile</string>
+    <string name="feed">Feed</string>
+    <string name="notifications">Notifications</string>
+    <string name="create_post">Create Post</string>
+</resources>
